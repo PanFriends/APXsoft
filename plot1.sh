@@ -1,0 +1,1 @@
+/home/pana/bin/XSPEC/TORREJON/plot1.sh
